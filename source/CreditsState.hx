@@ -66,7 +66,13 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android'],
+			['FNF Vs Isaacky Team'],
+                        ['Isaacky',		'isaacky',		'Main Coder and Main Artist',						'https://youtube.com/channel/UCVkxSfj9W4jYvc6Ka3JtmhA',	'C7C7C7'],
+                        ['Silverr',		'silverr',		'Cutscenes and Support',						'https://youtube.com/c/SILVERRR',	'E49A9A'],
+                        ['Zack Boy',		'zackb',		'songs and chart',						'https://youtube.com/channel/UCu3AvJo2clG19jhvxlZcp6A',	'00C7C7'],
+                        ['Gabe&Koopa',		'gabe',		'Support',						'https://youtube.com/channel/UCKkCtBbseyAGJFl0eNLI6KA',	'7AFFFF'],
+                        [''],
+                        ['Psych Engine Android'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	    'F73838'],
 			['Sirox',		        'sirox',		    'Fixed a lot of shit, added videoBG, help with editors',	                 'https://www.youtube.com/channel/UCqp6FttWJlp67vHT8n-_uKw',	    '261EA9'],		
 			['ELfox',               'elfox',            'Created The Method To Port Modding Features',                    'https://t.me/ELfox513',           '53E52C'],				
